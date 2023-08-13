@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mahendra.raichur@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mahendra-raichur/](https://www.linkedin.com/in/mahendra-raichur/)
+- 📄 Know about my experiences [Mahendra's LinkedIn](https://www.linkedin.com/in/mahendra-raichur/)
 
 - ⚡ Fun fact **I believe I am persevering**
 
