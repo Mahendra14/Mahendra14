@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [Mahendra's LinkedIn](https://www.linkedin.com/in/mahendra-raichur/)
 
-- ⚡ Fun fact **I believe I am persevering**
+- ⚡ Fun fact **I am persevering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
