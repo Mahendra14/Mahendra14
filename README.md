@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **MERN, OJET, Helidon and Sprint.**
 
-- 📫 How to reach me **mahendra.raichur@gmail.com**
+- 📫 How to reach me **mraichur@asu.edu (or) mahendra.raichur@gmail.com**
 
 - 📄 Know about my experiences [Mahendra's LinkedIn](https://www.linkedin.com/in/mahendra-raichur/)
 
