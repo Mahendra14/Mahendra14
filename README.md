@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahendra Kumar Raichur</h1>
 <h3 align="center">Crafting Tomorrow's Solutions: Student and Former Oracle Full Stack Developer, Open to Exciting Opportunities</h3>
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Flask & NextJS**
 
 - 👯 I’m looking to collaborate on **Exciting Projects**
 
